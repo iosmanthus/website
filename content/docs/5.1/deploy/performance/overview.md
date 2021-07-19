@@ -68,3 +68,5 @@ For now, with more replication factor, the latency of TiKV would increase linear
 ## See also
 
 * If you are interested in the rest of benchmark result, see this [sheet](https://docs.google.com/spreadsheets/d/1VjzC3IxCiqGQmSUgRxewgExE3c32YiZMUKNsKDuvrPg/edit?usp=sharing).
+
+<iframe width="884" height="546" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTIx695jjL3qYN1iR4xC3N8qh0B1qsHOALSBqf1B469b0DIZwVdzZMcSbBOOtAIo31hAdW0x_EXjmgq/pubchart?oid=6574505&amp;format=interactive"></iframe>
